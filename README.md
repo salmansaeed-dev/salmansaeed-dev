@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salman Saeed</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Salman Saeed]</h1>
 <h3 align="center">A passionate FullStack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Laravel**
@@ -11,10 +11,10 @@
 
 - 💬 Ask me about **Laravel, React, API's**
 
-- 📫 How to reach me **salmanxaeed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://salmanxaeed@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/012/871/452/large_2x/gmail-icon-google-product-illustration-free-png.png" alt="salman-xaeed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/salman-xaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/salman-xaeed" height="30" width="40" /></a>
 <a href="https://fb.com/salmanxaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salmanxaeed" height="30" width="40" /></a>
 <a href="https://instagram.com/salman_xaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salman_xaeed" height="30" width="40" /></a>
