@@ -5,8 +5,6 @@
 Peace and Blessings be upon you, First of all I want to say That Thank you for visiting my profile. I'm a Full Stack developer with a passion for learning something new everyday, I consider myself Talented, Guilable and Hard Working who likes to interact, learn and collaborate with people to learn and grow. So, if you have anything exciting going on please do not hesitate to contact me. <br />
 Let's connect, innovate, and make an impact together! <br />
 
-<img src="https://github.com/user-attachments/assets/f48384d4-fa71-4e9c-a8f6-f466b0695f56" width="600px" height="450px"> <br />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:salmanxaeed@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/012/871/452/large_2x/gmail-icon-google-product-illustration-free-png.png" alt="salman-xaeed" height="30" width="40" /></a>
@@ -168,6 +166,8 @@ Let's connect, innovate, and make an impact together! <br />
     </td>
   </tr>
 </table>
+
+<img src="https://github.com/user-attachments/assets/f48384d4-fa71-4e9c-a8f6-f466b0695f56" width="600px" height="450px"> <br />
 
 ## My Dev Stats on Github ⚙️
 
