@@ -11,6 +11,7 @@
 
 - 💬 Ask me about **Laravel, React, API's**
 
+![Dedicated Developer](https://github.com/user-attachments/assets/f48384d4-fa71-4e9c-a8f6-f466b0695f56)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +22,158 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br />HTML
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        width="48"
+        height="48"
+        alt="css"
+      />
+      <br />CSS
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65"
+      />
+      <br />Javascript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=php"
+        width="48"
+        height="48"
+        alt="php"
+      />
+      <br />PHP
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="48"
+        height="48"
+        alt="bootstrap"
+      />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="48"
+        height="48"
+        alt="tailwind"
+      />
+      <br />Tailwind
+    </td>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        width="58"
+        height="58"
+        alt="Photoshop"
+      />
+      <br />Photoshop
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        width="65"
+        height="65"
+        alt="GitHub"
+      />
+      <br />Github
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postman"
+        width="48"
+        height="48"
+        alt="Postman"
+      />
+      <br />Postman
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img
+          src="https://laravel.com/img/logomark.min.svg"
+          width="48"
+          height="48"
+          alt="Laravel"
+        />
+      </a>
+      <br />Laravel
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=jquery"
+        width="48"
+        height="48"
+        alt="jquery"
+      />
+      <br />JQuery
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+        width="48"
+        height="48"
+        alt="ReactJS"
+      />
+      <br />React js
+    </td>
+    <td>
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+        width="58"
+        height="58"
+        alt="nextjs"
+      />
+      <br />Next-js
+    </td>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br />MySQL
+    </td>
+    <td>
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"
+        width="48"
+        height="48"
+        alt="WordPress"
+      />
+      <br />WordPress
+    </td>
+  </tr>
+</table>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansaeed-dev&show_icons=true&locale=en&layout=compact" alt="salmansaeed-dev" /></p>
