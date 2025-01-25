@@ -167,7 +167,7 @@ Let's connect, innovate, and make an impact together! <br />
   </tr>
 </table>
 
-<img src="https://github.com/user-attachments/assets/f48384d4-fa71-4e9c-a8f6-f466b0695f56" width="600px" height="450px"> <br />
+<img align="center" src="https://github.com/user-attachments/assets/f48384d4-fa71-4e9c-a8f6-f466b0695f56" width="600px" height="450px"> <br />
 
 ## My Dev Stats on Github ⚙️
 
