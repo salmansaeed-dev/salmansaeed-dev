@@ -130,12 +130,12 @@ Let's connect, innovate, and make an impact together! <br />
     </td>
     <td align="center" width="96">
       <img
-        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+        src="https://github.com/user-attachments/assets/f5df4c70-dced-4e39-8989-bdb1d5b061bf"
         width="48"
         height="48"
         alt="ReactJS"
       />
-      <br />React js
+      <br />Vue js
     </td>
     <td>
       <img
