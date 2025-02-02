@@ -2,7 +2,11 @@
 <h3 align="center">A passionate FullStack developer</h3>
 
 <h4 align="center">Welcome to My GitHub Page! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NrdDZiZG96c3h1ZXl4cmVyaGwwMWl5bzRpcmtmMzFycDk5YTI3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3og0IDWkA6A7Ng9Hck/giphy.gif" width="22px"> </h4>  <br />
-Peace and Blessings be upon you, First of all I want to say That Thank you for visiting my profile. I'm a Full Stack developer with a passion for learning something new everyday, I'm Guilable and Hard Working who likes to interact, learn and collaborate with people to learn and grow. So, if you have anything exciting going on please do not hesitate to contact me. <br />
+Peace and Blessings be upon you, First of all I want to say That Thank you for visiting my Profile I'm a Full Stack developer with a passion for learning something new everyday.
+
+My Journey began in the late 90's and Early 2000's when I used to install Windows 98 with command prompts in intel pentium II PC's. That might seem ancient to some people but That tiny spark grew into a full-blown passion, leading me to earn a MSc in Computer Science and going to Australia for MS in Networking as well.
+
+I'm Tech enthusiast who likes to interact, learn and collaborate with people to learn and grow. So, if you have anything exciting going on please do not hesitate to contact me.
 Let's connect, innovate, and make an impact together! <br />
 
 <h3 align="left">Connect with me:</h3>
