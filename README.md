@@ -143,12 +143,12 @@ Let's connect, innovate, and make an impact together! <br />
     </td>
     <td>
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         width="58"
         height="58"
         alt="nextjs"
       />
-      <br />Next-js
+      <br />Docker
     </td>
     <td>
       <img
